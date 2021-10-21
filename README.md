@@ -1,6 +1,7 @@
 ## Hey 👋, I'm Souvik
-🎓 I'm a Junior Software Engineer & a competitive programmer, passionate about Web Dev and Global Coding Competitions. <br/>
-🎯 I am learning DSA and DevOps and looking forward to engaging in open source contributions. <br/>
+🎓 I'm a Junior Software Engineer & a competitive programmer. <br/>
+🎯 I am passionate about Web Dev and Global Coding Competitions. <br/>
+📚 Currently learning DSA and DevOps and looking forward to engaging in open source contributions. <br/>
 
  
 ### My Skills 🔥

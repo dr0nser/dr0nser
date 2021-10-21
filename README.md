@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Souvik Das
-![](https://pbs.twimg.com/profile_banners/1105455948188000257/1630854758/600x200)
+![](https://lh3.googleusercontent.com/yr0j6gsYh-DSkttdWOmnr2A8oDwr0JwsDn-6uH99Ps6n1zsMZrx9xMKcYeD3rF1cGSAXKD1NGHxSnGqeOZI93UzZDMxhOllMT6AlJYqj1q-vmN--C1cU-djbPbkY9-iNw3ZowVDEHw3Z9o2F_3O2qaRVwA6jw9XAR6HbL8yxIEupLN0XaKJ0HpzXZjQK_PnmfDqPYnlgeWVLTplNVzNvDXroiiP7qEboceIPPn4XnLiBEajE1do1Qq7-yE8jniQgwaJAX6SRY4ru5gcQfqTFjg_zbiNTVzCIgLI4hcxUsAMv8WFunsccAZl1sgBqhO8ttLq4VHhwB_j0TYmv1Xx9GCY9bIsbgaoDBhxsGr7cWjS1RyP1kw2uTO9fQO6Klsvk_nR4uWDvABkbkJksSZc026kMTxCHxecvDGrvFMjDThdsVv3z9jyWfKSQF_VAIzHs3o2jFKTafcU_UVv-zF9fS1mp_1T_p-goLv2_qub1z5SpwavBttgI5pEz6ums--yIu99anDILd3lSmkqc5RTFWYDJOmMFi0xC_8yjxA4qf0TVOHtLOjxmThxAKz8vGVik8uYeUfBYQe0cwk63PiWTCMI-xAL-BVx6d6J8jX_PEjp4ydwWeH31Ly6Py00SNiYo6NrF0IsOEtes4MU6T8ggrV2TeLWKjVpdtphzkWWIGCRITKyxWpY9GuexMQR6XXJp8ViFsa064dPfAvxoVoRC10pL=w1216-h925-no?authuser=0)
 
 I am a Junior Software Engineer passionate about learning new skills. I am currently improving my DSA skills and learning DevOps. My aim is to contribute in open source projects and meet new people on the way.
 

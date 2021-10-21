@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Souvik Das
-#### Curious guy with specs.
-![Curious guy with specs.](https://twitter.com/souvikstwt/header_photo)
+![](https://pbs.twimg.com/profile_banners/1105455948188000257/1630854758/600x200)
 
 I am a Junior Software Engineer passionate about learning new skills. I am currently improving my DSA skills and learning DevOps. My aim is to contribute in open source projects and meet new people on the way.
 

@@ -1,4 +1,4 @@
-## Hey 👋, I'm Souvik
+## Hey <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" >, I'm Souvik
 🎓 I'm a Junior Software Engineer & a competitive programmer. <br/>
 🎯 I am passionate about Web Dev and Global Coding Competitions. <br/>
 📚 Currently learning DSA and looking forward to engaging in open source contributions. <br/>

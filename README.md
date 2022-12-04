@@ -134,16 +134,5 @@
 # 🤝 Connect with me
 
 [![LinkedIn](https://img.icons8.com/color/48/null/linkedin-circled--v1.png)](https://www.linkedin.com/in/souvikdasdev/)
-
-<a href="https://www.linkedin.com/in/souvikdasdev/" target="_blank">
-    <img src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png" alt="LinkedIn"
-    />
-</a>
-<a href="https://github.com/whyucode" target="_blank">
-    <img style="width: 45px;" src="https://lh3.googleusercontent.com/tC6MFoEsHBH_Mm1a3zfk6I772JaczWBMbsL5VOi7DzPJ6ZosJHf_dq3EV9n0-9vFe20yt3ViMjHdcj4c-hWxmj_t3Nze2JpdzjTxVjdtobmVf5_bQowsJ9CpM-W3r_fluzBa9eH0icnmuUCEC1dplCt3BjVPad_XflT3rA2fdsNpthZU0XFDVPOIEMvwpDCUTQxkctdJBE1GwgfJMVxA-i_ux-wjcnWstDg17C1di9g8xMXPp2W9A0_GdyG7sSceQltuzls6Z5-UnOOWKHlZEyUz2iOe4dj9e74NCIteealsdSETTxNUOwaFQbxgyjS5HjTQaReu0T-42WhpaYyIYri7fhkgAx_usOMxdnl2VAnHgSdVicvqv4m7YTLeYw4P9Vbvhdyeh0jn3le8L2P7WhjnHE3C7V8icvVKbGsDShW4p_M2c_OHHkynVZgJyh6dM3wv79HQrdLImq01LgAbC-dqQucr2ZeTuIK4NePrSYU6F4tDG2XGKH2k90tCYV-M7lR-rddJgrg5MYjQT2nFZj2TgXJHElOcYXLbvd9sIrBQT03riaDcPEC6tM-vv_9eawhLbExnQb4iLManA4SCgyd9m4Tl8WQXV6Lcnjne3mlkVFLipkCVIt_6mNaS9P0J_Lqfm9aFX0CHXTDH5DubGI8aoUTFzypFo1KIAhB3TdUvT5cYxX1ITMEUFOGWt-daGgKtFqt-59mj3aX4wj6uz--5aB-r0KbJEF_eMfP6_5iKTOt-XljSSgNce7upxbt7ejv2CjyFzJ3mbhrQVHuNnJje12s1owudjbQpLf26X7zsy7HOjbKy2EyWlrIStU0WehBNOwVcUhsvR86ZiJeC2U0EscVRu1Cch2Im_v_x0X_bAXMZXn2MZNzzsfiJa5A6J4YtPAjU3QclAb35sfS4bU3_1kM06dFVy1UBMXQp3UXz3A=s448-no?authuser=0" alt="Github"
-    />
-</a>
-<a href="https://souvikdas.hashnode.dev/" target="_blank">
-    <img src="https://img.icons8.com/color/48/null/hashnode.png" alt="Hashnode"
-    />
-</a>
+[![Github](https://lh3.googleusercontent.com/KVg4VvY4DKGHHj9Hwi17Tl8UTjyjsM2E_yRvlmY6oGfPlpatDe3lSO0FCK8FpS2dr91Sa9atZZk6v0OEP-vYdeq0qIFeTROpV458oJZ3kfSOhVxRZdSO7iAOAsD6siL--u14q_0Vr5xiURXSTqJSnn6wyUDoJycsAZL4olNma3J_bOpOZ0MMO_7_N-V26OEEorJcdp94fWPWxVndNmoEVcs8CuA0jcEzMnoXjcUUEZUWzJjPbr10bXvPnBPhsDcZCuxhYLReZtIGSRP4HIPdohfySv6R3p8NVamyGKNDwP_9vaeMFr-EvKB9hFUXhyU96p-rFQqXJ0XOjCwF3iZUWc2MFwc5SrxMQMBX8_2yNk5lKJ0rqfpGrmn1mALbbu5MG5bJkbgiZw9a4ufa29kiu_bLZ1a1YxYAGFAKxx1NLDOUEou8dqbQ-hVo6160CczED0CwIkUSEP3AKhJf-FEw-T8XKy-OBTHBYM1HgunqTEGDRvKsH75Md2UbmK6hGEbKVHEwN_dghI79wvWn9HJyp5x1Qkw9iLfLjmFxIpPhczXy4N8_QaBBGmK8QUaQ6k5KtSqlbMTOp65NQo_ekZV_-wnPMZlvY-2xCXD6iEqeXqbopv61PNplDsAISCCnw4hjvFCqprExbPPTS3B2CcC_8sm0WV5ZYI6PZ-nDcUghd6_fc3WCPT57Nt9C_Zuz1oHvzh6YAYcWBEtgJ-LuVjBNY-T6IljBM0XXFS3zViQUFDe4_DPUdH_tpT8d7E9a4c9juM76iBi23fsQLCMBvoy8QbjP-HSU7rztBVGjwGcrcbdbOhxTWZMA0IsnllUGNdH6mzUy2g2aLHZrxBlrHZJXqMXRm-P6zG5i8U5om9b7mrY--IsMpUfVd19wg3nu9LAn_HqZFBf8U7IhcUgwDdblvwI53JrRkYnsaZIZ00Wo0tcW6w=s45-no?authuser=0)](https://github.com/whyucode)
+[![HashNode](https://img.icons8.com/color/48/null/hashnode.png)](https://souvikdas.hashnode.dev/)

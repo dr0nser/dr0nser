@@ -133,7 +133,7 @@
 
 # 🤝 Connect with me
 
-![LinkedIn](https://www.linkedin.com/in/souvikdasdev/){target="_blank"}
+[![LinkedIn](https://img.icons8.com/color/48/null/linkedin-circled--v1.png)](https://www.linkedin.com/in/souvikdasdev/)
 
 <a href="https://www.linkedin.com/in/souvikdasdev/" target="_blank">
     <img src="https://img.icons8.com/color/48/null/linkedin-circled--v1.png" alt="LinkedIn"

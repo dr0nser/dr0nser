@@ -5,7 +5,7 @@
 <h1 align="center">
     Hey there, I'm Souvik👋
 </h1>
-<p style="font-size: 15px;">I'm a ServiceNow Developer who loves to work with web technologies. Currently, I am focused on brushing up my front-end web development skills. I'm also passionate about learning new technologies that I can leverage to solve real-world problems.</p>
+<p style="font-size: 15px;">I'm a Software Developer who loves to work with web technologies. Currently, I am focused on brushing up my full-stack web development skills. I'm also passionate about learning new technologies that I can leverage to solve real-world problems.</p>
 <br>
 
 # 🔧 Tools and Technologies

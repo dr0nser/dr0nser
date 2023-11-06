@@ -149,4 +149,4 @@
 ### 📈 LeetCode Stats
 ![souvikdas's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=souvikdas&theme=dark)
 
-![](https://leetcode-stat-api.herokuapp.com/souvikdas/theme=dark)
+![![](https://leetcode-stat-api.herokuapp.com/souvikdas/theme=dark)](https://leetcode.com/souvikdas/)

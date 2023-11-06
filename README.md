@@ -1,49 +1,86 @@
-<p align="center">
-    <img height=250 src="https://lh3.googleusercontent.com/pw/AL9nZEWuAkIM05CIJVk3NmwPh0gDfRy5C676IduPaveKXV3YLHKtyi4pL7bxkQqqD4kBnwY-uVCVSHPYXoT1w7b0yXgPzLSuItT9G4sz6uCdcCeRSLriNLYt0jFrRo91IZA5uRZKgP4qheyRtDz2NT9JSpp_HQ=w640-h305-no?authuser=0" />
-</p>
+## Hey, I'm Souvik👋
 
-<h1 align="center">
-    Hey there, I'm Souvik👋
-</h1>
-<p style="font-size: 15px;">I'm a Software Developer who loves to work with web technologies. Currently, I am focused on brushing up my full-stack web development skills. I'm also passionate about learning new technologies that I can leverage to solve real-world problems.</p>
+<p style="font-size: 15px;">I'm a Software Developer fond of working with web technologies. Currently, I am focused on brushing up my full-stack web development skills. I'm also passionate about learning new technologies that I can leverage to solve real-world problems.</p>
 <br>
 
-# 🔧 Tools and Technologies
+<a href="https://www.linkedin.com/in/souvikdasdev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
+" height=25></a> <a href="https://www.linkedin.com/in/souvikdasdev/"><img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow&labelColor=black
+" height=25></a> <a href="mailto:dronser8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+
+### 🔧 Tools and Technologies
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+  <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-        width="48"
-        height="48"
-        alt="Java"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="40"
+        height="40"
+        alt="React"
       />
-      <br /><strong>Java</strong>
+      <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-        width="48"
-        height="48"
-        alt="Spring Boot"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        width="40"
+        height="40"
+        alt="Redux Toolkit"
       />
-      <br /><strong>Spring Boot</strong>
+      <br /><strong>Redux Toolkit</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="MySQL"
+        src="https://cdn.worldvectorlogo.com/logos/recoil-js.svg"
+        width="40"
+        height="40"
+        alt="Recoil"
       />
-      <br /><strong>MySQL</strong>
+      <br /><strong>Recoil</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img
+        src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png"
+        width="40"
+        height="40"
+        alt="Recoil"
+      />
+      <br /><strong>React Query</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        width="40"
+        height="40"
+        alt="TypeScript"
+      />
+      <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="40"
+        height="40"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        width="40"
+        height="40"
+        alt="TailwindCSS"
+      />
+      <br /><strong>TailwindCSS</strong>
+    </td>
+  </tr>
+  <tr>
+  <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="HTML"
       />
       <br /><strong>HTML5</strong>
@@ -51,49 +88,11 @@
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="CSS3"
       />
       <br /><strong>CSS3</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JavaScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
-    </td>
-  </tr>
-  <tr>
-  <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-        width="48"
-        height="48"
-        alt="Firebase"
-      />
-      <br /><strong>Tailwind</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -106,6 +105,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        style="background-color: white;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="48"
         height="48"
@@ -143,13 +143,11 @@
   </tr>
 </table>
 
+### ✨ Featured Projects
 
-# 📈 Stats
-
-![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyucode&show_icons=true&theme=transparent&hide_border=true&icon_color=808080&text_color=bebebe&hide_title=true&ring_color=bebebe)
-
-
-# 🤝 Connect with me
-
-[![LinkedIn](https://img.icons8.com/color/48/null/linkedin-circled--v1.png)](https://www.linkedin.com/in/souvikdasdev/)
-[![HashNode](https://img.icons8.com/color/48/null/hashnode.png)](https://souvikdas.hashnode.dev/)
+<table>
+  <tr>
+    <td align="center" height="200" width="200"></td>
+    <td align="center" height="200" width="200"></td>
+  </tr>
+</table>

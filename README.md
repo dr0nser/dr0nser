@@ -1,11 +1,10 @@
 ## Hey, I'm Souvik👋
 
-<p style="font-size: 15px;">I'm a Software Developer fond of working with web technologies. Currently, I am focused on brushing up my full-stack web development skills. I'm also passionate about learning new technologies that I can leverage to solve real-world problems.</p>
+<p style="font-size: 15px;">I am a Software Developer fond of working with web technologies. Currently, I am focused on brushing up my full-stack web development skills. I'm also passionate about learning new technologies that I can leverage to solve real-world problems.</p>
 <br>
 
-<a href="https://www.linkedin.com/in/souvikdasdev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
-" height=25></a> <a href="https://www.linkedin.com/in/souvikdasdev/"><img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow&labelColor=black
-" height=25></a> <a href="mailto:dronser8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/souvikdasdev/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/souvikdas/"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" /></a> <a href="mailto:dronser8@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 ### 🔧 Tools and Technologies
 
@@ -105,7 +104,6 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        style="background-color: white;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="48"
         height="48"
@@ -147,7 +145,19 @@
 
 <table>
   <tr>
-    <td align="center" height="200" width="200"></td>
-    <td align="center" height="200" width="200"></td>
+    <td align="center" height="200" width="200">
+      <a href="https://github.com/dr0nser/fastfoodz">
+        <img src="https://github.com/dr0nser/dr0nser/assets/80523007/094bb1e0-e402-480f-b7c6-bd0c166d03f5" />
+        <br />
+        <strong>FastFoodz</strong>
+      </a>
+    </td>
+    <td align="center" height="200" width="200">
+      <a href="https://github.com/dr0nser/movies-gpt">
+        <img src="https://github.com/dr0nser/dr0nser/assets/80523007/c7d48d6a-e48f-4df6-a0f9-a18ea5b71784" />
+        <br />
+        <strong>MoviesGPT</strong>
+      </a>
+    </td>
   </tr>
 </table>

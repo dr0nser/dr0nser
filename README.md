@@ -143,21 +143,5 @@
 
 ### ✨ Featured Projects
 
-<table>
-  <tr>
-    <td align="center" height="200" width="200">
-      <a href="https://github.com/dr0nser/fastfoodz">
-        <img src="https://github.com/dr0nser/dr0nser/assets/80523007/094bb1e0-e402-480f-b7c6-bd0c166d03f5" />
-        <br />
-        <strong>FastFoodz</strong>
-      </a>
-    </td>
-    <td align="center" height="200" width="200">
-      <a href="https://github.com/dr0nser/movies-gpt">
-        <img src="https://github.com/dr0nser/dr0nser/assets/80523007/c7d48d6a-e48f-4df6-a0f9-a18ea5b71784" />
-        <br />
-        <strong>MoviesGPT</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+1. [FastFoodz - A swiggy clone](https://github.com/dr0nser/fastfoodz) - [View live](https://fastfoodz-dr0nser.vercel.app/)
+2. [MoviesGPT - Netflix with AI search](https://github.com/dr0nser/movies-gpt) - [View live](https://moviesgpt-dr0nser.vercel.app/)

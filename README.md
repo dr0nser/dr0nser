@@ -96,8 +96,8 @@
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="Node.js"
       />
       <br /><strong>Node.js</strong>
@@ -105,8 +105,8 @@
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="Express"
       />
       <br /><strong>Express</strong>
@@ -114,8 +114,8 @@
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="MongoDB"
       />
       <br /><strong>MongoDB</strong>
@@ -123,8 +123,8 @@
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="Git"
       />
       <br /><strong>Git</strong>
@@ -132,8 +132,8 @@
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="Npm"
       />
       <br /><strong>Npm</strong>

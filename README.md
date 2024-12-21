@@ -145,8 +145,3 @@
 
 1. [FastFoodz - A swiggy clone](https://github.com/dr0nser/fastfoodz) - [View live](https://fastfoodz-dr0nser.vercel.app/)
 2. [MoviesGPT - Netflix with AI search](https://github.com/dr0nser/movies-gpt) - [View live](https://moviesgpt-dr0nser.vercel.app/)
-
-### 📈 LeetCode Stats
-![souvikdas's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=souvikdas&theme=dark)
-
-![](https://leetcode-stat-api.herokuapp.com/souvikdas/theme=dark)
